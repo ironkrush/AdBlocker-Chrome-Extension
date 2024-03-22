@@ -12,3 +12,4 @@ Welcome to AdKavach, your ultimate ad blocker Chrome extension! Say goodbye to i
 - **Seamless Integration:** Easily install and activate the extension in your Chrome browser to start blocking ads instantly.
 - **Efficient Performance:** Enjoy fast and efficient browsing without the distraction of ads slowing you down.
 - **User-Friendly Interface:** Simple and intuitive controls make it easy to manage and customize your ad blocking settings.
+![Screenshot (43)](https://github.com/ironkrush/AdBlocker-Chrome-Extension/assets/80835880/73b3b48f-901f-413b-a330-0b950dfb9793)
