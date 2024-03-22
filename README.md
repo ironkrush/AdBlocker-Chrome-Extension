@@ -1,4 +1,5 @@
 # AdKavach Ad Blocker Chrome Extension
+![Screenshot (42)](https://github.com/ironkrush/AdBlocker-Chrome-Extension/assets/80835880/791678d0-e4ec-4e4f-b815-83deaf504249)
 
 ## Description
 
